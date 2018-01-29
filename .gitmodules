@@ -16,3 +16,9 @@
 [submodule "Engine/middleware/stb"]
 	path = Engine/middleware/stb
 	url = https://github.com/nothings/stb.git
+[submodule "Engine/middleware/LuaJIT"]
+	path = Engine/middleware/LuaJIT
+	url = https://github.com/LuaJIT/LuaJIT.git
+[submodule "Engine/middleware/enet"]
+	path = Engine/middleware/enet
+	url = https://github.com/lsalzman/enet.git
