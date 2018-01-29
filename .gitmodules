@@ -22,3 +22,6 @@
 [submodule "Engine/middleware/enet"]
 	path = Engine/middleware/enet
 	url = https://github.com/lsalzman/enet.git
+[submodule "Engine/middleware/openal-soft"]
+	path = Engine/middleware/openal-soft
+	url = https://github.com/kcat/openal-soft.git
