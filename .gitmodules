@@ -25,3 +25,6 @@
 [submodule "Engine/middleware/openal-soft"]
 	path = Engine/middleware/openal-soft
 	url = https://github.com/kcat/openal-soft.git
+[submodule "Engine/middleware/cef"]
+	path = Engine/middleware/cef
+	url = https://bitbucket.org/chromiumembedded/cef.git
