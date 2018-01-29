@@ -1,0 +1,18 @@
+[submodule "Engine/middleware/assimp"]
+	path = Engine/middleware/assimp
+	url = https://github.com/assimp/assimp.git
+[submodule "Engine/middleware/bullet3"]
+	path = Engine/middleware/bullet3
+	url = https://github.com/bulletphysics/bullet3.git
+[submodule "Engine/middleware/glad"]
+	path = Engine/middleware/glad
+	url = https://github.com/Dav1dde/glad.git
+[submodule "Engine/middleware/glfw"]
+	path = Engine/middleware/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "Engine/middleware/glm"]
+	path = Engine/middleware/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "Engine/middleware/stb"]
+	path = Engine/middleware/stb
+	url = https://github.com/nothings/stb.git
